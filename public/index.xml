@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sottobanco</title>
+    <link>http://sottobanco.github.io/sottobanco_org/</link>
+    <description>Recent content on Sottobanco</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Apr 2021 13:37:21 +0000</lastBuildDate><atom:link href="http://sottobanco.github.io/sottobanco_org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Test Post</title>
+      <link>http://sottobanco.github.io/sottobanco_org/posts/a-test-post/</link>
+      <pubDate>Wed, 28 Apr 2021 13:37:21 +0000</pubDate>
+      
+      <guid>http://sottobanco.github.io/sottobanco_org/posts/a-test-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronics</title>
+      <link>http://sottobanco.github.io/sottobanco_org/electronics/</link>
+      <pubDate>Wed, 28 Apr 2021 13:37:21 +0000</pubDate>
+      
+      <guid>http://sottobanco.github.io/sottobanco_org/electronics/</guid>
+      <description>Electronics  Pixel Processor Post-Production  Photoshop et al. Raw vs JPG Size vs Resolution   DSLR   DSLR e DSLM   Blockchain Smartphones  </description>
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>http://sottobanco.github.io/sottobanco_org/physics/</link>
+      <pubDate>Wed, 28 Apr 2021 13:37:21 +0000</pubDate>
+      
+      <guid>http://sottobanco.github.io/sottobanco_org/physics/</guid>
+      <description>Physics  Light Optics Camera Obscura  Stenopeic hole Darkness Upside down   Printing  Hyppolite Bayard vs Daguerre Continuous tone vs inkjet Zone system   Time Aperture Sensitivity  </description>
+    </item>
+    
+    <item>
+      <title>Semantics</title>
+      <link>http://sottobanco.github.io/sottobanco_org/semantics/</link>
+      <pubDate>Wed, 28 Apr 2021 13:37:21 +0000</pubDate>
+      
+      <guid>http://sottobanco.github.io/sottobanco_org/semantics/</guid>
+      <description>Semantics  Language Perception Psychology  Gestalt   Fashion Spandrel Theory Value Theme Style  </description>
+    </item>
+    
+  </channel>
+</rss>
